@@ -1,3 +1,4 @@
+// peer review code
 public class Destination {
     private String city, state;
     private int zipcode;
