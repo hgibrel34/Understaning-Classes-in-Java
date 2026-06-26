@@ -1,3 +1,4 @@
+// peer review code
 public class Package {
     private static int numPackages = 0;
     private Destination destination;
