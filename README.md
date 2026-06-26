@@ -1,7 +1,7 @@
 # Understaning-Classes — Java Classes Assignment
 
 ## Overview
-This was a Java assignment from AP Computer Science A (2024) focused on **object-oriented programming and class design**. The program simulates an Amazon-style package ordering system using two custom classes: `Destination` and `Package`. A `Main` driver class handles user interaction via the console.
+This was a Java assignment from AP Computer Science A focused on **object-oriented programming and class design**. The program simulates an Amazon-style package ordering system using two custom classes: `Destination` and `Package`. A `Main` driver class handles user interaction via the console.
 
 ## Concepts Covered
 - Designing and implementing multiple classes in Java
