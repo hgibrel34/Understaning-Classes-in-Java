@@ -54,6 +54,3 @@ Total packages created: 2
 - Equality between two `Package` objects is based on **item name and destination only** — price is intentionally excluded
 - The `Package` constructor stores a **defensive copy** of the `Destination` object to preserve encapsulation
 - Tax (6%) is applied once at construction time
-
----
-*AP Computer Science A — Unit: Classes in Java (2024)*
